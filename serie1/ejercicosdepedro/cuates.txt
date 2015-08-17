@@ -1,0 +1,6 @@
+Nombre	Edad	Peso
+pedro	15	90.000000
+Mary	9	40.000000
+Luis	9	9.000000
+Dany	8	8.000000
+Dano	1	5.000000  

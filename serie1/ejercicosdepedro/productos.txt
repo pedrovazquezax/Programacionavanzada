@@ -1,0 +1,6 @@
+coca 10
+pepsi 15
+seconds 60
+leche 15
+huevo 28
+cigarros 45

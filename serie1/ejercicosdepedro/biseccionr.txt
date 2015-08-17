@@ -1,0 +1,38 @@
+
+la interacion  1
+ xm=2.50
+ a=0.00
+ b=2.50
+la interacion  2
+ xm=1.25
+ a=0.00
+ b=1.25
+la interacion  3
+ xm=0.63
+ a=0.63
+ b=1.25
+la interacion  4
+ xm=0.94
+ a=0.94
+ b=1.25
+la interacion  5
+ xm=1.09
+ a=0.94
+ b=1.09
+la interacion  6
+ xm=1.02
+ a=0.94
+ b=1.02
+la interacion  7
+ xm=0.98
+ a=0.98
+ b=1.02
+la interacion  8
+ xm=1.00
+ a=1.00
+ b=1.02
+la interacion  9
+ xm=1.01
+ a=1.00
+ b=1.01
+La raiz es 1.005859
